@@ -1,3 +1,5 @@
+## Importing python libraries
+
 import pygame
 import random
 import sys
