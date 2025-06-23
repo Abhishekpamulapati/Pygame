@@ -33,7 +33,7 @@ A fast-paced animated dodging game built with Python and Pygame, featuring hand-
 
 - Python 3.7+
 - Pygame
-- Any editors (VS code, Subline text)
+- Any editors (VS code, Sublime text,Cursor,Pycharm)
 
 Install dependencies:
 
